@@ -4,7 +4,7 @@ const program = require('commander')
 const generator = require('./src/generator')
 
 program
-  .version('0.0.1')
+  .version('1.0.0')
   .description('Generates LQ image thumbs (used for LQIP)')
 
 program
