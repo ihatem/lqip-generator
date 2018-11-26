@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "LQ Image generator for LQIP",
   "main": "index.js",
+  "bin": {
+    "lqip-generator": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
