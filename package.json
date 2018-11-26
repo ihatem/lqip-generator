@@ -1,0 +1,20 @@
+{
+  "name": "lqip-generator",
+  "version": "1.0.0",
+  "description": "LQ Image generator for LQIP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lqip",
+    "images",
+    "generator"
+  ],
+  "author": "Adam Stradovnik",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "jimp": "^0.5.6"
+  }
+}
